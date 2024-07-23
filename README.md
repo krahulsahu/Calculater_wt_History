@@ -9,8 +9,8 @@ View history on a separate page.
 Clear history functionality.
 Responsive design.
 
-Live Demo : 
-
+Live Demo : https://calculater-sand.vercel.app/
+ or 
 
 
 

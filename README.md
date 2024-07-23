@@ -10,7 +10,8 @@ Clear history functionality.
 Responsive design.
 
 Live Demo : https://calculater-sand.vercel.app/
- or 
+
+ or  https://krahulsahu.github.io/Calculater_wt_History/ 
 
 
 
